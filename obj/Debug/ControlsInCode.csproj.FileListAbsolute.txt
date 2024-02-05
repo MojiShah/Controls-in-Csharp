@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\program\C#\Second\ControlsInCode\ControlsInCode\bin\Debug\ControlsInCode.exe.config
+C:\Users\HP\Desktop\program\C#\Second\ControlsInCode\ControlsInCode\bin\Debug\ControlsInCode.exe
+C:\Users\HP\Desktop\program\C#\Second\ControlsInCode\ControlsInCode\bin\Debug\ControlsInCode.pdb
+C:\Users\HP\Desktop\program\C#\Second\ControlsInCode\ControlsInCode\obj\Debug\ControlsInCode.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\program\C#\Second\ControlsInCode\ControlsInCode\obj\Debug\ControlsInCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\program\C#\Second\ControlsInCode\ControlsInCode\obj\Debug\ControlsInCode.Form1.resources
+C:\Users\HP\Desktop\program\C#\Second\ControlsInCode\ControlsInCode\obj\Debug\ControlsInCode.Properties.Resources.resources
+C:\Users\HP\Desktop\program\C#\Second\ControlsInCode\ControlsInCode\obj\Debug\ControlsInCode.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\program\C#\Second\ControlsInCode\ControlsInCode\obj\Debug\ControlsInCode.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\program\C#\Second\ControlsInCode\ControlsInCode\obj\Debug\ControlsInCode.exe
+C:\Users\HP\Desktop\program\C#\Second\ControlsInCode\ControlsInCode\obj\Debug\ControlsInCode.pdb
